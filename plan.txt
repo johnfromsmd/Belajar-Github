@@ -4,4 +4,4 @@ Belajar
 - Laravel
 - JS
   - Framework
-- ES6
+    - Angular
