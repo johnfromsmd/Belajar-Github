@@ -4,5 +4,3 @@ Belajar
 - Laravel
 - JS
   - Framework
-    - Vue
-    - Angular
