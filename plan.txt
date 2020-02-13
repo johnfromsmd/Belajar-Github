@@ -5,3 +5,4 @@ Belajar
 - JS
   - Framework
     - Vue
+    - Angular
